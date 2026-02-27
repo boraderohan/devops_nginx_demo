@@ -1,0 +1,15 @@
+# DevOsp NGINX Demo
+
+
+
+## Intro 
+
+This project helps you to install nginx and then show a demo page 
+
+## 
+
+sudo apt-get update
+sudo apt install nginx
+
+sudo systemctl start nginx
+sudo systemctl enable nginx
