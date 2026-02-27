@@ -2,6 +2,9 @@
 
 # This is the script to install nginx and enable nginx
 
+echo "_________Installing NGiNX_________"
+
+
 sudo apt-get update -y 
 
 sudo apt install nginx -y
